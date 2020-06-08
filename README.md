@@ -21,7 +21,7 @@
 
  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/BergCastro/gostack-gobarber-2020">
 
-  <a href="https://github.com/BergCastro/ecoleta-rocketseat-nwl1/commits/master">
+  <a href="https://github.com/BergCastro/gostack-gobarber-2020/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BergCastro/gostack-gobarber-2020">
   </a>
 
